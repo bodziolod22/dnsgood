@@ -1,4 +1,2 @@
 @@||googleadservices.com^
-@@||googleads.g.doubleclick.net^$important
-@@||clk*.tradedoubler.com^
-@@||click.aliexpress.com^
+
